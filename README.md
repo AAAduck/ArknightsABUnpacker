@@ -47,3 +47,10 @@ python unpack_ab_audio.py "D:\语音\a.ab" "D:\语音\b.ab" .\out
 ## 致谢
 
 LZ4AK 解压算法参考自 [Ark-Unpacker](https://github.com/isHarryh/Ark-Unpacker)，遵循 BSD-3-Clause 许可证。
+完整的第三方组件与许可声明见 [THIRD-PARTY-NOTICES.md](THIRD-PARTY-NOTICES.md)。
+
+## 许可证
+
+本项目以 MIT 许可证分发，见 [LICENSE](LICENSE)。
+
+本工具为**非官方**第三方解析脚本，与鹰角网络无隶属关系；仓库内不含任何游戏素材。
